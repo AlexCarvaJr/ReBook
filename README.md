@@ -1,4 +1,4 @@
-# ReBook - O que é?
+# ReBook 📔 - O que é?
   Basicamente, ReBook propõe-se a ser uma biblioteca virtual online gratuíta, que se baseia em um algorítmo inteligente que identifica os gostos de cada usuário para recomendar a ele títulos que ele provavelmente gostará, dentro de um repositório de centenas de livros
 
 ## Imagens do projeto final
