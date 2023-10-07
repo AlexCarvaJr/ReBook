@@ -63,7 +63,7 @@
    
 ## Contribuição 🤷‍♂️
 
-- Eu mesmo
+- Prof. Vinicius
 - Chat GPT
 
 
