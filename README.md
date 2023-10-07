@@ -52,6 +52,7 @@
 5. Personalização de perfil
 6. Sistema de avaliação de livros
 7. Comunidade ativa
+8. Expansão de suas funcionalidades: o ReBook pode futuramente servir como uma ferramenta para divulgação de projetos pessoais
    
 ## Contribuição
 
