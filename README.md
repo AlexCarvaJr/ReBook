@@ -19,27 +19,27 @@
 
 **1. Tela inicial do usuário**
 - O sistema deve apresentar uma tela inicial que apresente todos os títulos disponíveis em catálogos com imagens ilustrativas e descrições introdutórias, listados e separados em seções de gênero literário (Finalizado)
-- O catálogo separa os títulos em seções [*contos, ficção, favoritos e em leitura...*] (em construção)
-- A tela deve conter uma imagem de fundo com tonalidades mais neutras [*branco ou cinza*]. (em construção)
-- Os cards possuem imagens que fazem referência à história ou emulam as capas dos livros correspondentes (em construção)
-- Os cards possuem botões que levam o usuário aos livros virtuais correspondentes (Finalizado)
-- Sistema de busca por nome do título (em construção)
+- O catálogo separa os títulos em seções [*contos, ficção, favoritos e em leitura...*] (em desenvolvimento...)
+- A tela deve conter uma imagem de fundo com tonalidades mais neutras [*branco ou cinza*]. (em desenvolvimento...)
+- Os cards possuem imagens que fazem referência à história ou emulam as capas dos livros correspondentes (em desenvolvimento...)
+- Os cards possuem botões que levam o usuário aos livros virtuais correspondentes (finalizado)
+- Sistema de busca por nome do título (em desenvolvimento...)
 
 **2. Tela de visualização dos livros**
 
-- A tela deve conter o conteúdo com aparencia de um livro (em construção)
+- A tela deve conter o conteúdo com aparencia de um livro (em desenvolvimento...)
 {as páginas carecem de parágrafos; o texto não é divido em páginas, como se simulando um livro}
-- A interface desta página deve ser simples e desprovida de informações, especialmente informação escrita, para não atrapalhar a leitura (em construção)
+- A interface desta página deve ser simples e desprovida de informações, especialmente informação escrita, para não atrapalhar a leitura (em desenvolvimento...)
 - Um "checkpoint" para identificar onde você parou de ler
 
 *O projeto é majoritariamente estruturado sobre código html
 
 ## Requisitos não funcionais
 
-1. **Compatibilidade:** diversos dispositivos [smartphone, PC] (em construção)
+1. **Compatibilidade:** diversos dispositivos [smartphone, PC] (em desenvolvimento...)
 2. **Desempenho:** velocidade na exibição do conteúdo (finalizado) 
-3. **Interface:** mais completa, porém mantendo a intuitividade (em construção)
-4. **Segurança:** sistema de cadastro para identificação de usuários (em construção)
+3. **Interface:** mais completa, porém mantendo a intuitividade (em desenvolvimento...)
+4. **Segurança:** sistema de cadastro para identificação de usuários (em desenvolvimento...)
 5. **Legal e Regulamentar:** licença par uso e admissão de direitos autorais para distribuição de conteúdo autoral para consumo popular
 
 ## Como rodar a aplicação
