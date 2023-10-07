@@ -11,7 +11,7 @@
 
 *O projeto carece de prototipação inicial
 
-## Requisitos funcionais
+## Requisitos funcionais 
 
 **1. Tela inicial do usuário**
 - Título (em construção)
@@ -21,7 +21,7 @@
 - Os cards possuem imagens que fazem referência à história ou emulam as capas dos livros correspondentes (em construção)
 - Os cards possuem botões que levam o usuário aos livros virtuais correspondentes (Finalizado) 
 
-**2. Tela de visualização dos livros**
+**2. Tela de visualização dos livros** 📚
 
 - A tela deve conter o conteúdo com aparencia de um livro (em construção)
 {as páginas carecem de parágrafos; o texto não é divido em páginas, como se simulando um livro}
@@ -44,7 +44,7 @@
 2. Download do Projeto ReBook [*ZIP*]
 3. Download da biblioteca Flask 
 
-## Trabalhos Futuros
+## Trabalhos Futuros 
 
 1. Tela inicial
 2. Sistema de cadastro
@@ -56,10 +56,10 @@
 8. Comunidade ativa
 9. Expansão de suas funcionalidades: o ReBook pode futuramente servir como uma ferramenta para divulgação de projetos pessoais
    
-## Contribuição
+## Contribuição 🤷‍♂️
 
 "Eu, eu e eu mesmo" - **Narcísio**
 
-## Licença
+## Licença 
 
 Todos os direitos reservados a **Alex Carvalho Jr.**
