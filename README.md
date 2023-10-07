@@ -4,9 +4,9 @@
 ## Imagens do projeto final
 
 ![image](https://github.com/AlexCarvaJr/ReBook/assets/142109395/7a24f2b2-1add-4263-906e-3f8c4f8aedaf)
-____
+
 ![image](https://github.com/AlexCarvaJr/ReBook/assets/142109395/da724f09-3ab6-4293-9919-a48b7dfd28dc)
-____
+
 ![image](https://github.com/AlexCarvaJr/ReBook/assets/142109395/220ac84c-a133-4719-a767-80ede0e1f7b5)
 
 *O projeto carece de prototipação inicial
