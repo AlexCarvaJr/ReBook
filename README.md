@@ -13,28 +13,33 @@
 
 ## Requisitos funcionais
 
-1. Tela inicial do usuário
+**1. Tela inicial do usuário**
 - Título (em construção)
 - O sistema deve apresentar uma tela inicial do usuário que apresente todos os títulos disponíveis em catálogos (Finalizado)
-- O catálogo separa os títulos em seções [contos, ficção] (em construção)
-- A tela deve conter uma imagem de fundo com tonalidades mais neutras [branco ou cinza]. (em construção)
-- Os cards devem possuir botões que levam o usuário aos livros virtuais correspondentes (Finalizado) 
+- O catálogo separa os títulos em seções [*contos, ficção*] (em construção)
+- A tela deve conter uma imagem de fundo com tonalidades mais neutras [*branco ou cinza*]. (em construção)
+- Os cards possuem imagens que fazem referência à história ou emulam as capas dos livros correspondentes (em construção)
+- Os cards possuem botões que levam o usuário aos livros virtuais correspondentes (Finalizado) 
 
-2. Tela de visualização dos livros
+**2. Tela de visualização dos livros**
 
 - A tela deve conter o conteúdo com aparencia de um livro (em construção)
-{as páginas carecem de parágrafos; o texto não é divido em páginas, como se simulando um livro} 
+{as páginas carecem de parágrafos; o texto não é divido em páginas, como se simulando um livro}
+- A interface desta página deve ser simples e desprovida de informações, especialmente informação escrita, para não atrapalhar a leitura
+
+*O projeto é majoritariamente estruturado sobre código html
 
 ## Requisitos não funcionais
 
-1. Compatibilidade com diversos dispositivos [smartphone, PC] (em construção)
-2. Rapidez na exibição do conteúdo (finalizado) 
-3. Intuitividade da interface (em construção)
-4. Sistemas de cadastro para identificação de usuários (em construção)
+1. **Compatibilidade:** diversos dispositivos [smartphone, PC] (em construção)
+2. **Desempenho:** velocidade na exibição do conteúdo (finalizado) 
+3. **Interface:** mais completa, porém mantendo a intuitividade (em construção)
+4. **Segurança:** sistema de cadastro para identificação de usuários (em construção)
 
 ## Como rodar a aplicação
 
-1. Exige a instalação de um programa de programação em Python [Studio Code, Thonny]
+1. É necessário ter o Python instalado no computador
+1. Exige a instalação de um ambiente de programação em Python [Studio Code, Thonny]
 2. Download do Projeto ReBook
 3. Download da biblioteca Flask 
 
@@ -44,7 +49,10 @@
 2. Sistema de cadastro
 3. Expansão do catálogo
 4. Expansão da interface
-
+5. Personalização de perfil
+6. Sistema de avaliação de livros
+7. Comunidade ativa
+   
 ## Contribuição
 
 "Eu, eu e eu mesmo" - Narcísio
