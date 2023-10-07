@@ -1,6 +1,11 @@
 # ReBook 📔 - O que é?
   Basicamente, ReBook propõe-se a ser uma biblioteca virtual online gratuíta, que se baseia em um algorítmo inteligente que identifica os gostos de cada usuário para recomendar a ele títulos que ele provavelmente gostará, dentro de um repositório de centenas de livros
 
+## Imagem da Prototipação
+
+![image](https://github.com/AlexCarvaJr/ReBook/assets/142109395/81c3130f-95b7-4982-addb-506c38fe239d)
+
+
 ## Imagens do projeto final
 
 ![image](https://github.com/AlexCarvaJr/ReBook/assets/142109395/7a24f2b2-1add-4263-906e-3f8c4f8aedaf)
@@ -9,23 +14,24 @@
 
 ![image](https://github.com/AlexCarvaJr/ReBook/assets/142109395/220ac84c-a133-4719-a767-80ede0e1f7b5)
 
-*O projeto carece de prototipação inicial
 
 ## Requisitos funcionais 💻
 
 **1. Tela inicial do usuário**
 - Título (em construção)
 - O sistema deve apresentar uma tela inicial do usuário que apresente todos os títulos disponíveis em catálogos (Finalizado)
-- O catálogo separa os títulos em seções [*contos, ficção*] (em construção)
+- O catálogo separa os títulos em seções [*contos, ficção, favoritos e em leitura...*] (em construção)
 - A tela deve conter uma imagem de fundo com tonalidades mais neutras [*branco ou cinza*]. (em construção)
 - Os cards possuem imagens que fazem referência à história ou emulam as capas dos livros correspondentes (em construção)
-- Os cards possuem botões que levam o usuário aos livros virtuais correspondentes (Finalizado) 
+- Os cards possuem botões que levam o usuário aos livros virtuais correspondentes (Finalizado)
+- Sistema de busca por nome do título (em construção)
 
 **2. Tela de visualização dos livros**
 
 - A tela deve conter o conteúdo com aparencia de um livro (em construção)
 {as páginas carecem de parágrafos; o texto não é divido em páginas, como se simulando um livro}
-- A interface desta página deve ser simples e desprovida de informações, especialmente informação escrita, para não atrapalhar a leitura
+- A interface desta página deve ser simples e desprovida de informações, especialmente informação escrita, para não atrapalhar a leitura (em construção)
+- Um "checkpoint" para identificar onde você parou de ler
 
 *O projeto é majoritariamente estruturado sobre código html
 
