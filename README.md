@@ -56,8 +56,8 @@
    
 ## Contribuição
 
-"Eu, eu e eu mesmo" - Narcísio
+"Eu, eu e eu mesmo" - **Narcísio**
 
 ## Licença
 
-Todos os direitos reservados a Alex Carvalho Jr.
+Todos os direitos reservados a **Alex Carvalho Jr.**
