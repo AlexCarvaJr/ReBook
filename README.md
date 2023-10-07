@@ -11,7 +11,7 @@
 
 *O projeto carece de prototipação inicial
 
-## Requisitos funcionais 
+## Requisitos funcionais 💻
 
 **1. Tela inicial do usuário**
 - Título (em construção)
@@ -21,7 +21,7 @@
 - Os cards possuem imagens que fazem referência à história ou emulam as capas dos livros correspondentes (em construção)
 - Os cards possuem botões que levam o usuário aos livros virtuais correspondentes (Finalizado) 
 
-**2. Tela de visualização dos livros** 📚
+**2. Tela de visualização dos livros**
 
 - A tela deve conter o conteúdo com aparencia de um livro (em construção)
 {as páginas carecem de parágrafos; o texto não é divido em páginas, como se simulando um livro}
