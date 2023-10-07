@@ -48,12 +48,13 @@
 
 1. Tela inicial
 2. Sistema de cadastro
-3. Expansão do catálogo
-4. Expansão da interface
-5. Personalização de perfil
-6. Sistema de avaliação de livros
-7. Comunidade ativa
-8. Expansão de suas funcionalidades: o ReBook pode futuramente servir como uma ferramenta para divulgação de projetos pessoais
+3. Algoritmo de recomendação
+4. Expansão do catálogo
+5. Expansão da interface
+6. Personalização de perfil
+7. Sistema de avaliação de livros
+8. Comunidade ativa
+9. Expansão de suas funcionalidades: o ReBook pode futuramente servir como uma ferramenta para divulgação de projetos pessoais
    
 ## Contribuição
 
