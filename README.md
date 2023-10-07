@@ -63,7 +63,7 @@
    
 ## Contribuição 🤷‍♂️
 
--"Eu, eu e eu mesmo"
+-Eu mesmo
 -Chat GPT
 
 
