@@ -35,12 +35,13 @@
 2. **Desempenho:** velocidade na exibição do conteúdo (finalizado) 
 3. **Interface:** mais completa, porém mantendo a intuitividade (em construção)
 4. **Segurança:** sistema de cadastro para identificação de usuários (em construção)
+5. **Legal e Regulamentar:** licença par uso e admissão de direitos autorais para distribuição de conteúdo autoral para consumo popular
 
 ## Como rodar a aplicação
 
 1. É necessário ter o Python instalado no computador
 1. Exige a instalação de um ambiente de programação em Python [Studio Code, Thonny]
-2. Download do Projeto ReBook
+2. Download do Projeto ReBook [*ZIP*]
 3. Download da biblioteca Flask 
 
 ## Trabalhos Futuros
