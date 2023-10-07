@@ -63,8 +63,8 @@
    
 ## Contribuição 🤷‍♂️
 
--Eu mesmo
--Chat GPT
+- Eu mesmo
+- Chat GPT
 
 
 ## Licença 
