@@ -18,8 +18,7 @@
 ## Requisitos funcionais 💻
 
 **1. Tela inicial do usuário**
-- Título (em construção)
-- O sistema deve apresentar uma tela inicial do usuário que apresente todos os títulos disponíveis em catálogos (Finalizado)
+- O sistema deve apresentar uma tela inicial que apresente todos os títulos disponíveis em catálogos com imagens ilustrativas e descrições introdutórias, listados e separados em seções de gênero literário (Finalizado)
 - O catálogo separa os títulos em seções [*contos, ficção, favoritos e em leitura...*] (em construção)
 - A tela deve conter uma imagem de fundo com tonalidades mais neutras [*branco ou cinza*]. (em construção)
 - Os cards possuem imagens que fazem referência à história ou emulam as capas dos livros correspondentes (em construção)
