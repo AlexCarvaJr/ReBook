@@ -64,6 +64,8 @@
 ## Contribuição 🤷‍♂️
 
 "Eu, eu e eu mesmo" - **Narcísio**
+-Chat GPT
+
 
 ## Licença 
 
